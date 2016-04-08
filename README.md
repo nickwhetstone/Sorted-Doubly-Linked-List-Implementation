@@ -9,5 +9,7 @@ This project is an implementation of a sorted doubly linked list using C++. It c
 6. Deleting all nodes and exiting the program
 
 The following sites were incredibly useful in development:
+
 http://stackoverflow.com (especially [this discussion](http://stackoverflow.com/questions/30961723/inserting-a-node-into-a-sorted-doubly-linked-list))
+
 http://www.tutorialspoint.com/cplusplus/
