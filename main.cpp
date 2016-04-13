@@ -55,9 +55,7 @@ node *insertNode(node *head, int data)
 	return head;
 }
 
-// Main function. Cmd line arguments aren't necessary here, just left in to
-// display knowledge of how to use them.
-int main(int argc, char *argv[])
+int main()
 {
 	// We'll use all of these at some point in the 6 cases
 	int i;
